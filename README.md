@@ -13,4 +13,4 @@ A simple command-line contact manager to add, view, search, and delete contacts.
 
 ## 🚀 How to Run
 ```bash
-python contact_book.py
+python Social Spectrum.py
